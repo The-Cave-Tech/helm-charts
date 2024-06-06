@@ -1,3 +1,7 @@
 apiVersion: v1
-entries: {}
+entries:
+  test-chart:
+    -name: test-chart
+    version 1.0.0
+    description: A test Helm chart
 generated: "2024-06-06T14:23:38.59897993+02:00"
